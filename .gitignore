@@ -1,0 +1,8 @@
+# Visual Studio build output
+[Bb]in/
+[Oo]bj/
+*.exe
+*.pdb
+*.suo
+*.user
+.vs/
